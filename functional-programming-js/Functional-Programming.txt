@@ -1,0 +1,5 @@
+-functional Programming
+-Pure functions
+-First class citizen
+-Higher Order functions
+-function composit
